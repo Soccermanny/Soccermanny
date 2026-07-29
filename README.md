@@ -23,4 +23,4 @@ turning messy financial and operational data into reporting people actually use.
 
 I speak English and Spanish fluently.
 
-📫 mrmanueljlara@gmail.com · [LinkedIn](ADD-YOUR-LINKEDIN-URL)
+📫 mrmanueljlara@gmail.com · https://www.linkedin.com/in/manuel-lara-05967a167/
