@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+!--
 **Soccermanny/Soccermanny** is a ✨ _special_ ✨ repository.
 
 Analytics and machine learning, based in Orange County, CA.
